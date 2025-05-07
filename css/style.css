@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'dead';
+  src: url(../font/StarVintage-ow80V.ttf)
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(60, 11, 92);
+}
+canvas {
+  display: block;
+  margin: 10% auto;
+}
+
+h1 {
+  font-family: 'dead';
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  font-family: 'dead';
+  color: rgb(255, 255, 255);
+  font-size: larger;
+}
